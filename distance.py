@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Demonstrates the use of the Levenstein distance for command suggestion.
+Demonstrates the use of the distance metrics for command suggestion.
 """
 
 def levenstein(first, second):
